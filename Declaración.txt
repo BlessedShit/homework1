@@ -1,0 +1,1 @@
+es la manera en que ordenamos una comparación a una variable y que esta sea falsa o verdadera

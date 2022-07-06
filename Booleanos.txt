@@ -1,0 +1,1 @@
+Es cuando designamos dos posibles opciones, ya sea faolso o verdadero, activado o desactivado, etc.

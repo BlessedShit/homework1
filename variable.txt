@@ -1,0 +1,2 @@
+es aquello que asigna una serie de valores a través de un símbolo
+
